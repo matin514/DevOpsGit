@@ -2,3 +2,9 @@ This is my first git file.
 I will check it in local repo.
 Adding onemore line.
 One more line added.
+Adding line to check merge conflict.
+Checking from second branch.
+Creating text to check merge.
+1
+2
+2
